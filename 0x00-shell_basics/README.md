@@ -5,3 +5,4 @@ Display current directory contents, including hidden files
 Display current directory contents.
 Create a script that creates a directory
 changes the working directory to the user’s home directory
+Move the file betty from /tmp/ to /tmp/my_first_directory
