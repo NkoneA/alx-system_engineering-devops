@@ -1,2 +1,1 @@
-Where am i
-Display current directory contents in a long format
+absolute path name of the current working directory
