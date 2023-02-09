@@ -13,3 +13,4 @@ Write a script that prints the type of the file named iamafile
 Write a script that lists all files
 Create a symbolic link to /bin/ls, named __ls__
 Copy HTML files
+Let’s move
