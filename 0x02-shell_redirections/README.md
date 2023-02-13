@@ -26,3 +26,4 @@ Write a script that displays all users and their home directories, sorted by use
  It is a good file that cuts iron without making a noise
 Empty casks make the most noise
 A gif is worth ten thousand words
+Acrostic
