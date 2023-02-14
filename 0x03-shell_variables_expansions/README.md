@@ -12,3 +12,4 @@ Create a script that creates a new global variable.
 11-binary_to_decimal
 13-print_float
 100-decimal_to_hexadecimal
+101-rot13
