@@ -6,3 +6,4 @@ If the path be beautiful, let us not ask where it leads
 Create a script that creates a new local variable.
 Local variables
 Create a script that creates a new global variable.
+8-true_knowledge
